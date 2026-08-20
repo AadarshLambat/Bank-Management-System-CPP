@@ -1,0 +1,33 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# CLion / IntelliJ
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
